@@ -175,13 +175,6 @@
   z-index: 1;
 }
 
-.card__icon-button {
-  border: 2px solid transparent;
-  block-size: 38px;
-  cursor: pointer;
-  transition: border-color 0.3s ease;
-}
-
 .card__icon-button:focus-visible {
   outline: none;
   border-color: var(--additional-color, #000);
